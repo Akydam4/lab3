@@ -6,7 +6,8 @@
 
 ### Блок-схема
 ![Блок-схема алгоритма](lab_3_schema.png)
-[https://app.diagrams.net/#Llab_3_schema.png#%7B"pageId"%3A"-HSlFcVOjgjtYchVQxjc"%7D](#"как lab_3_schema.png")
+
+[https://app.diagrams.net/#Llab_3_schema.png#%7B"pageId"%3A"-HSlFcVOjgjtYchVQxjc"%7D]
 
 
 ## 2. Реализация программы
